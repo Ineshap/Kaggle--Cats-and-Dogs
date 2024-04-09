@@ -6,6 +6,9 @@ The dataset used for training and testing this model is the Cats and Dogs datase
 
 # Usage
 -Make sure you have the required libraries installed. You can install them using pip install -r requirements.txt.
+
 -Download the Cats and Dogs dataset from Kaggle and organize it into separate training_set and test_set folders.
+
 -Adjust the dataset paths in the code accordingly.
+
 -Run the code in a Python environment that supports PyTorch 
